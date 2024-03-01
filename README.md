@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Studying Computer Science at Purdue University
-Serving as a Sergeant in Korea Combat Training Center, Republic of Korea Army
+Studying Computer Science at Purdue University <br />
+Serving as a Sergeant in Korea Combat Training Center, Republic of Korea Army <br />
+
 
 <!--
 **Paaaark/Paaaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
