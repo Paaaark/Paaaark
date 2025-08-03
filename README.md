@@ -44,9 +44,10 @@ Built a retrieval-augmented backend with event clustering and vector query trans
 - [Resume (latest)](https://bit.ly/segyul-resume)
 - [LinkedIn](https://linkedin.com/in/segyul-park)
 - [Email](mailto:hifipark0801@gmail.com)
+<!--
 
 ## 💡 Feedback / Interaction
 
 Have a quick suggestion or thought? Open an issue:
 
-- [Share feedback](https://github.com/Paaaark/your-repo/issues/new?title=Feedback&body=One+suggestion+to+improve+Segyul's+projects:)
+- [Share feedback](https://github.com/Paaaark/your-repo/issues/new?title=Feedback&body=One+suggestion+to+improve+Segyul's+projects:) -->
